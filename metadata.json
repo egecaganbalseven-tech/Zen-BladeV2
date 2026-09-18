@@ -1,0 +1,6 @@
+{
+  "name": "Zen Blade - 1. Şahis Özel Güç Oyunu",
+  "description": "5 farklı özel güç ile düşmanları dilimlediğiniz, yapay zeka (AI) boss düello modu ve zorluk seviyeleri içeren, bol görsel efektli ve rahatlatıcı 1. şahıs aksiyon oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
